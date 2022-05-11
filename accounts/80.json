@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "televerify",
+  "private_key_id": "21750c730204336b23fbcd6bc46fae3edf2b2d8d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDMPdr1r8IqjDl\nk5N+Gs2tKRR4gjHn/aORzIXQt6WyB5qgaFsgTqnImzU6zGKFxIiClQoaOW6/i9mk\n60TG2DhUWKF1piLNmNgumCxBJJctc1nHbD0ZSsP2172C+bjPq8DAoTc8MvpBlGxz\naCnHupruSBBm4ZABwoVNXusty+nlIfAzpg6Qk3+l5nFyKoNQQ0mv8vIERemt6eo1\nOvPcBa7gyunG2/2DRO/cTXsOsCRpwphepB9MxclAFhSqsgZBSkWgdl+Pch1gRby+\n2jM2rhYGWIDK5wsquC+6MbdImsDDUn/ZsIsxhrcWObDH188LatEZjB66neK7Ld4A\nmxi4iTzrAgMBAAECggEAGjkHXGz+wCbBJ+6SF5R5QkStE92F3+Fi6rD730T01TyR\nSPCMIYR/6cv0NECGEeuL3WMxdsF1f/VFWZMj68TbmHVJx7j4nv9kN6pI8717M+d1\nzcVcVfwF5LEqLCDpc7jizd46wfMlTM8oXL7HMiZ/LvjufyvZgWsFJpZUaRQmiZov\n1Vm/HyhURgMpS1tZw9adrlCUyFkm+UUyDfUuu/aQ+E5wSEpyutCwLoJMLYhfYKA9\no//VeX7W7c7Z/jDjKibFuO1hdM5l31TYyDLo7zA0XVWFyzbDE63y/6EwwO0A5Yf2\n0hmFjUBy1b0ucVPhDSI211tOGvLlcZRbEqnBxbc+jQKBgQDz06OzyVH7+O1lcLQi\nk3ZFIzt80sGnL0CLayUSMZ/eND4N0KRU/VPQnzFO5j5h1SAX0e0R5zfz1NlsAJKn\noZYltPWHisRdXj8POxdmfFd4DYwW4yQnjKx8n/UHhk7662341K8gm1CJe3RsaxKg\nwDN4ZbSfVggfKIYEh3YbMFyyPwKBgQDM77cXkmWoavjdD9nQfFt18sBaK1cCEIRC\ngixspRUlRkNs05TGEkPmz5iCwFnGY71u7+igs2zR7OwnMAzd7qHiFXxxMzCo4sNR\n4VYq8ikJ8dLSPOE4tckYhHX7+npbmTVzSiNuUKlnarUYcVjCgjD3DG6miVKShbVH\nOF42wR5yVQKBgH7UdfDNJdI11/bOO0VJA1pPS2BQmN8IG0DqSOw/1/LTpfu1reVv\nqKt6Q0HRTl3BaOI7FmAbr+UrsLUXTzHXQaz3hkgtDJusrIyVpkRvJWiTU22MVYAl\nEov5AJIbcPXghOHMcBQ79hatmw/SWmw3zg4wiVXggHUEtUGh3POjonQtAoGALpSN\n2R29XXpy9kwUBf8+CqESd2xCaoW2iidsUYV0OPSvfpzYw+yC4oNs9sshnKYu+Hgv\nN9eQdGaVhpK1WfxTbz/S+SfZd4mTO5ksLLa9/TSp5n9P8cPf4WK6LnvQM+Gu9HV1\neC19U7Q9VUDuG8fbuUtqGxA7ZHJfscBuKaPbd8ECgYEAnuai3Cro4Hdsra1Wczo+\n6p5TqT9NWwTsQrQ/4lU9l4sKnE3xy0FeQoESnef2Ob+1IMxoTTK9dujy66ezJl6O\nroEXYz+xIi/hgmV9Fnf5FfXtx1jjia0kjgRWsL+etNAjHGLDBqaAwdtOxmXo6PnF\nM6xbo52IhB6fIgOfjPNfyj4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-nbu0xo523qprtlkcx6urpgduhf@televerify.iam.gserviceaccount.com",
+  "client_id": "101078861991711880804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-nbu0xo523qprtlkcx6urpgduhf%40televerify.iam.gserviceaccount.com"
+}
